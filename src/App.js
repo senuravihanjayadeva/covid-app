@@ -6,7 +6,7 @@ import Charts from "./components/Charts/Charts";
 import CountryPicker from "./components/CountryPicker/CountryPicker";
 import Footer from "./components/Footer/Footer";
 
-//import image
+//import image to
 import coronaImage from "./Image/image.png";
 
 //import css
